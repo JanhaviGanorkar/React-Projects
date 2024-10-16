@@ -14,23 +14,47 @@ Welcome to my repository of React projects! 🚀 This collection showcases a var
 
 ## 📂 Projects Included
 
-1. **Project 1** – [Description of Project 1]  
-   🔗 [Link to Project](#)  
+1. **ThemeChanger** – [Changing theme by clicking on the color button]  
+   🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/ThemeChanger)  
    📝 Key Features:
-   - Feature 1
-   - Feature 2
+   - Changing color
+   - set color by clicking button
 
-2. **Project 2** – [Description of Project 2]  
-   🔗 [Link to Project](#)  
+2. **ToDoList** – [ToDoList using context api]  
+   🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/ToDoList)  
    📝 Key Features:
-   - Feature 1
-   - Feature 2
+   - write your Todo
+   - Delete Todo
 
-3. **Project 3** – [Description of Project 3]  
-   🔗 [Link to Project](#)  
+3. **costumhook** – [Description of Project 3]  
+   🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/costumhook)  
    📝 Key Features:
-   - Feature 1
-   - Feature 2
+   - Create Currency converter using custom hooks
+   - using api for currency converter
+
+4. **costumreact** – [creating costum react]  
+   🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/costumhook)  
+   📝 Key Features:
+   - Create custom react
+   - for  better understanding of react
+
+   5. **pass_generator** – [Genrating Strong password]  
+   🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/pass_generator)  
+   📝 Key Features:
+   - help using sequre passwords
+   - learning the basic react concepts
+
+   5. **reduxToolkitTodo** – [Generating Strong password]  
+   🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/reduxToolkitTodo)  
+   📝 Key Features:
+   - making complex todolist
+   - learnig redux toolkit
+
+   5. **router** – [Routing]  
+   🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/router)  
+   📝 Key Features:
+   - Learning how to make routes
+   - prevent application rendring multiple time
 
 
 ## 🧰 How to Run the Projects
@@ -49,20 +73,18 @@ Welcome to my repository of React projects! 🚀 This collection showcases a var
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 🚀 What's Next?
 
 I’m always working on new projects, enhancing existing ones, and learning new technologies! Feel free to explore the code and leave any feedback or suggestions. Contributions are also welcome! 💬
 
-## 📝 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 🔗 Connect with Me
-**Linkdedin**:
+**Linkdin**:
 - [LinkedIn](https://www.linkedin.com/in/janhavi-ganorkar-263752294/)
+
 **Portfolio**:
 - [Portfolio](https://new-portfolio-jwlz-git-main-janhavis-projects-7679da79.vercel.app/)
 
