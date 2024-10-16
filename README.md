@@ -61,7 +61,7 @@ I’m always working on new projects, enhancing existing ones, and learning new 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 🔗 Connect with Me
-
+**Linkdedin**:
 - [LinkedIn] (https://www.linkedin.com/in/janhavi-ganorkar-263752294/)
 - Portfolio: (https://new-portfolio-jwlz-git-main-janhavis-projects-7679da79.vercel.app/)
 
