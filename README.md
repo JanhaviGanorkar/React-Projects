@@ -38,19 +38,19 @@ Welcome to my repository of React projects! 🚀 This collection showcases a var
    - Create custom react
    - for  better understanding of react
 
-   5. **pass_generator** – [Genrating Strong password]  
+5. **pass_generator** – [Genrating Strong password]  
    🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/pass_generator)  
    📝 Key Features:
    - help using sequre passwords
    - learning the basic react concepts
 
-   5. **reduxToolkitTodo** – [Generating Strong password]  
+6. **reduxToolkitTodo** – [Generating Strong password]  
    🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/reduxToolkitTodo)  
    📝 Key Features:
    - making complex todolist
    - learnig redux toolkit
 
-   5. **router** – [Routing]  
+7. **router** – [Routing]  
    🔗 [Link to Project](https://github.com/Riyaman/React-Projects/tree/master/router)  
    📝 Key Features:
    - Learning how to make routes
